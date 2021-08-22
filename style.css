@@ -1,0 +1,45 @@
+    body{
+      background-color:rgba(255, 228, 196, 0.767);
+      padding: 3%;
+    }
+    .my-name{
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+    }  
+    .who-am-I{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        position: absolute;
+        top: 36px;
+        right: 60%;
+    }
+    .where-I-live{
+      font-family:stroke;
+      font-size: 20px;
+    }
+    .html,.js{
+      font-size:20px;
+      font-weight: bold;
+    }
+    .css{
+       font-size: 25px;
+    }
+    .my-photo{
+        float: left;
+        height: 140px;
+        padding: 5px;
+        background-color: blue;
+    }
+    .image-container{
+        height: 150px;
+        position: relative;
+    }
+    
+    ul li:nth-child(odd){
+        background-color: cadetblue;
+    }
+    
+    
+    
+  
+
